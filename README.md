@@ -23,5 +23,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/> </a>
 </p>
 <h3 align="left">Git Hub Status: </h3>
-<a href="http://www.github.com/pavan432"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavan432&show_icons=true&locale=en&layout=compact" alt="pavan432" /></a>
 <a href="http://www.github.com/pavan432"><img src="https://github-readme-stats.vercel.app/api?username=pavan432&show_icons=true&locale=en" alt="pavan432" /></a>
+<a href="http://www.github.com/pavan432"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavan432&show_icons=true&locale=en&layout=compact" alt="pavan432" /></a>
+
