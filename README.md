@@ -1,4 +1,4 @@
-<h1 align="center">I'm Pavan Kunchala 👋</h1>
+<h1 align="center">Pavan Kunchala</h1>
 <h3 align="center">Passionate to work as a developer</h3>
 
 - 📫 Contact me at **pavankunchala54@gmail.com**
