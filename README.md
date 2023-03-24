@@ -1,5 +1,5 @@
 <h1 align="center">💫Pavan Kunchala</h1>
-<h3 align="center">Passionate Web Developer from India</h3>
+<h3 align="center">Passionate Web Developer From India</h3>
 
 - 📫 Contact me at **pavankunchala54@gmail.com**
 - 🧠 I’m currently learning **Full Stack Web Development at [i.Camp](https://i.camp/)**
