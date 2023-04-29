@@ -1,4 +1,4 @@
-<h1 align="center">💫Pavan Kunchala</h1>
+<h1 align="center">💫Pavan</h1>
 <h3 align="center">Passionate Web Developer From India</h3>
 
 - 📫 Contact me at **pavankunchala54@gmail.com**
