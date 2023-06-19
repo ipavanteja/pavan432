@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Web Developer From India</h3>
 
 - 📫 Contact me at **pavankunchala54@gmail.com**
-- 🧠 I’m currently learning **Full Stack Web Development at [i.Camp](https://i.camp/)**
+- 🧠 I’m currently working as a **Software Development Engineer at [i.Camp](https://i.camp/)**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072757071269) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ipavan_teja/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankunchala00/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PavanKunchala4) 
