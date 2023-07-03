@@ -26,14 +26,14 @@
 
 ## ⚙️ GitHub Analytics
 
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
+<table style="border: 0px;">
+  <tr style="border: 0px;">
+    <td style="border: 0px;">
       <a href="https://github.com/ipavanteja">
         <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ipavanteja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
       </a>
     </td>
-    <td style="border: none;">
+    <td style="border: 0px;">
       <a href="https://github.com/ipavanteja">
         <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ipavanteja&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
       </a>
