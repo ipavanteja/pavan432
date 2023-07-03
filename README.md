@@ -26,16 +26,14 @@
 
 ## ⚙️ GitHub Analytics
 
-## ⚙️ GitHub Analytics
-
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/ipavanteja">
         <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ipavanteja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://github.com/ipavanteja">
         <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ipavanteja&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
       </a>
@@ -43,9 +41,3 @@
   </tr>
 </table>
 
-
-## ⚙️ GitHub Analytics
-
-<a href="https://github.com/ipavanteja">
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ipavanteja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ipavanteja&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
