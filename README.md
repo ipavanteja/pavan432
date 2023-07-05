@@ -22,6 +22,7 @@
 <span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="35px">](https://www.npmjs.com/)</span>&nbsp;
 <span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35px">](https://code.visualstudio.com/)</span>&nbsp;
 <span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="35px">](https://git-scm.com/)</span>&nbsp;
+<span>[<img src="./github.svg" width="45px">](https://github.com/)</span>&nbsp;
 <span>[<img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="35px">](https://www.postman.com/)</span>&nbsp;
 
 ## ⚙️ GitHub Analytics
