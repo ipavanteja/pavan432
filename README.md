@@ -1,8 +1,11 @@
 <h1 align="center">💫Pavan Kunchala</h1>
 <h3 align="center">Passionate Web Developer From India</h3>
 
-- 📫 Contact me at **pavankunchala54@gmail.com**
-- 🧠 I’m currently working as **Software Development Engineer** at **[i.CAMP](https://i.camp/)**
+This is the place where I opensource stuff and break things 🤣
+- 🧠 I’m currently working on building EdTech products at **[i.CAMP](https://i.camp/)**
+- 👨‍💻 I'm currently learning Full Stack web development
+- 📫 How to reach me: **pavankunchala54@gmail.com**
+- ⚡ Fun fact: I ❤️ our 🌍
 
 ## 🌐 Socials:
 [![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/pavankunchala00/) [![Twitter](./twitter.svg)](https://twitter.com/PavanKunchala4) [![Instagram](./instagram.svg)](https://www.instagram.com/ipavan_teja/) [![Facebook](./facebook.svg)](https://www.facebook.com/profile.php?id=100072757071269) 
@@ -19,6 +22,8 @@
 <span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="35px">](https://git-scm.com/)</span>&nbsp;
 <span>[<img src="./github.svg" width="45px">](https://github.com/)</span>&nbsp;
 <span>[<img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="35px">](https://www.postman.com/)</span>&nbsp;
+
+<!-- ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipavanteja&show_icons=true&theme=tokyonight) -->
 
 ## ⚙️ GitHub Analytics
 
