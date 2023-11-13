@@ -4,7 +4,7 @@
 This is the place where I open source stuff and break things 🙂
 
 - 🧠 I’m currently working on building EdTech products at **[i.CAMP](https://i.camp/)**
-- 👨‍💻 I'm currently learning Full Stack Web Development
+- 👨‍💻 I'm currently learning Full Stack Web Development.
 - 📫 How to reach me: **pavan@i.camp**
 - ⚡ Fun fact: I ❤️ our 🌍
 
