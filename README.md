@@ -1,22 +1,26 @@
 <h1 align="center">💫Pavan Kunchala</h1>
 <h3 align="center">Passionate Web Developer From India</h3>
 
-This is the place where I open source stuff and break things 🤣
+This is the place where I open source stuff and break things 🙂
+
 - 🧠 I’m currently working on building EdTech products at **[i.CAMP](https://i.camp/)**
 - 👨‍💻 I'm currently learning Full Stack Web Development
 - 📫 How to reach me: **pavan@i.camp**
 - ⚡ Fun fact: I ❤️ our 🌍
 
 ## 🌐 Socials:
-[![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/pavankunchala00/) [![Twitter](./twitter.svg)](https://twitter.com/PavanKunchala4) [![Instagram](./instagram.svg)](https://www.instagram.com/ipavan_teja/) [![Facebook](./facebook.svg)](https://www.facebook.com/profile.php?id=100072757071269) 
+
+[![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/pavankunchala00/) [![Twitter](./twitter.svg)](https://twitter.com/PavanKunchala4) [![Instagram](./instagram.svg)](https://www.instagram.com/ipavan_teja/) [![Facebook](./facebook.svg)](https://www.facebook.com/profile.php?id=100072757071269)
 
 ## 🎯 Things I code with:
+
 <span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35px">](https://html.com/)</span>&nbsp;
 <span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35px">](https://en.wikipedia.org/wiki/CSS)</span>&nbsp;
-<span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px">](https://en.wikipedia.org/wiki/C_(programming_language))</span>&nbsp;
+<span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px">](<https://en.wikipedia.org/wiki/C_(programming_language)>)</span>&nbsp;
 <span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px">](https://www.javascript.com/)</span>&nbsp;
 
 ## 🔥 Tools I use:
+
 <span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="35px">](https://www.npmjs.com/)</span>&nbsp;
 <span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35px">](https://code.visualstudio.com/)</span>&nbsp;
 <span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="35px">](https://git-scm.com/)</span>&nbsp;
@@ -41,4 +45,3 @@ This is the place where I open source stuff and break things 🤣
     </td>
   </tr>
 </table>
-
