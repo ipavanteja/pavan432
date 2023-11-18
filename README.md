@@ -10,7 +10,7 @@ This is the place where I open source stuff and break things 🙂
 
 ## 🌐 Socials:
 
-[![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/pavankunchala00/) [![Twitter](./twitter.svg)](https://twitter.com/PavanKunchala4) [![Instagram](./instagram.svg)](https://www.instagram.com/ipavan_teja/) [![Facebook](./facebook.svg)](https://www.facebook.com/profile.php?id=100072757071269)
+[![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/pavankunchala00/) [![Twitter](./twitter.svg)](https://twitter.com/ipavanteja) [![Instagram](./instagram.svg)](https://www.instagram.com/ipavan_teja/) [![Facebook](./facebook.svg)](https://www.facebook.com/profile.php?id=100072757071269)
 
 ## 🎯 Things I code with:
 
