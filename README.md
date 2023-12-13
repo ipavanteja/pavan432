@@ -8,8 +8,6 @@ This is the place where I open source stuff and break things 👨‍💻
 - 📫 How to reach me: **pavan@i.camp**
 - ⚡ Fun fact: I ❤️ our 🌍
   
-![](https://komarev.com/ghpvc/?username=ipavanteja&color=blue&style=plastic&base=100)
-
 ## 🌐 Socials:
 
 [![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/pavankunchala00/) [![Twitter](./twitter.svg)](https://twitter.com/ipavan_teja) [![Instagram](./instagram.svg)](https://www.instagram.com/ipavan_teja/) [![Facebook](./facebook.svg)](https://www.facebook.com/profile.php?id=100072757071269)
@@ -47,3 +45,5 @@ This is the place where I open source stuff and break things 👨‍💻
     </td>
   </tr>
 </table>
+
+![](https://komarev.com/ghpvc/?username=ipavanteja&color=blue&style=plastic&base=100)
