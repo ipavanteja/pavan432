@@ -7,6 +7,8 @@ This is the place where I open source stuff and break things 👨‍💻
 - 👨‍💻 I'm currently learning Full Stack Web Development.
 - 📫 How to reach me: **pavan@i.camp**
 - ⚡ Fun fact: I ❤️ our 🌍
+  
+![](https://komarev.com/ghpvc/?username=ipavanteja&color=yellow&style=plastic&base=100)
 
 ## 🌐 Socials:
 
