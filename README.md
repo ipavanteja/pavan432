@@ -6,9 +6,9 @@ This is the place where I open source stuff and break things 👨‍💻
 - 🧠 I’m currently working on building EdTech products at **[i.CAMP](https://i.camp/)**
 - 👨‍💻 I'm currently learning Full Stack Web Development.
 - 📫 How to reach me: **pavan@i.camp**
-- ⚡ Fun fact: I ❤️ our 🌍
+- ⚡ Fun fact: I love to code while listening to music 🎧
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" height="300px" width="500px" >
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" height="400px" width="500px" >
   
 ## 🌐 Socials:
 
