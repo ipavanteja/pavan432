@@ -8,7 +8,7 @@ This is the place where I open source stuff and break things 👨‍💻
 - 📫 How to reach me: **pavan@i.camp**
 - ⚡ Fun fact: I ❤️ our 🌍
   
-![](https://komarev.com/ghpvc/?username=ipavanteja&color=yellow&style=plastic&base=100)
+![](https://komarev.com/ghpvc/?username=ipavanteja&color=blue&style=plastic&base=100)
 
 ## 🌐 Socials:
 
