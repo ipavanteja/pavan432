@@ -48,4 +48,4 @@ This is the place where I open source stuff and break things 👨‍💻
   </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=ipavanteja&color=blue&style=plastic&base=100)
+![](https://komarev.com/ghpvc/?username=ipavanteja&color=blue&style=square&base=100)
