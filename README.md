@@ -30,9 +30,7 @@ This is the place where I open source stuff and break things 👨‍💻
 <a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="36" height="36" alt="Postman" /></a>
 
 ### Socials:
-<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="36" height="36" alt="Linkedin" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="36" height="36" alt="Twitter" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="36" height="36" alt="Instagram" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankunchala54/)
 
 ### GitHub Analytics
 
