@@ -13,27 +13,28 @@ This is the place where I open source stuff and break things 👨‍💻
   width="500px"
 />
 
-## 🌐 Socials:
-[![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/pavankunchala00/)
-[![Twitter](./twitter.svg)](https://twitter.com/ipavan_teja)
-[![Instagram](./instagram.svg)](https://www.instagram.com/ipavan_teja/)
-[![Facebook](./facebook.svg)](https://www.facebook.com/profile.php?id=100072757071269)
+### Skills:
 
-## 🎯 Things I code with:
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="36" height="36" alt="C" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="36" height="36" alt="HTML" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="36" height="36" alt="CSS" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="36" height="36" alt="JavaScript" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36" height="36" alt="Nodejs" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="36" height="36" alt="Express" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="36" height="36" alt="React" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="Git" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="GitHub" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="36" height="36" alt="Bash" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36" height="36" alt="MongoDB" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="36" height="36" alt="Nginx" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="36" height="36" alt="Postman" /></a>
 
-<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="36" height="36" alt="Javascript" /></a>
+### Socials:
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="36" height="36" alt="Linkedin" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="36" height="36" alt="Twitter" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="36" height="36" alt="Instagram" /></a>
 
-<!-- ## 🔥 Tools I use:
-
-<span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="35px">](https://www.npmjs.com/)</span>&nbsp;
-<span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35px">](https://code.visualstudio.com/)</span>&nbsp;
-<span>[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="35px">](https://git-scm.com/)</span>&nbsp;
-<span>[<img src="./github.svg" width="45px">](https://github.com/)</span>&nbsp;
-<span>[<img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="35px">](https://www.postman.com/)</span>&nbsp; -->
-
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipavanteja&show_icons=true&theme=tokyonight)
-
-## ⚙️ GitHub Analytics
+### GitHub Analytics
 
 <table style="border: none">
   <tr>
