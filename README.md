@@ -30,31 +30,18 @@ This is the place where I open source stuff and break things 👨‍💻
 <a href="#" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="36" height="36" alt="Postman" /></a>
 
 ### Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankunchala54/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ipavan_teja/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ipavan_teja)
 
-### GitHub Analytics
+### GitHub Analytics:
 
-<table style="border: none">
-  <tr>
-    <td style="border: none">
-      <a href="https://github.com/ipavanteja">
-        <img
-          height="170em"
-          src="https://github-readme-stats-eight-theta.vercel.app/api?username=ipavanteja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-        />
-      </a>
-    </td>
-    <td style="border: none">
-      <a href="https://github.com/ipavanteja">
-        <img
-          height="170em"
-          src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ipavanteja&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+<a href="https://github.com/ipavanteja">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ipavanteja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ipavanteja&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=ipavanteja&color=blue&style=square&base=100)
