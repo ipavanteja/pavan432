@@ -15,7 +15,7 @@ This is the place where I open source stuff and break things 👨‍💻
 
 ### Skills:
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="36" height="36" alt="C" /></a>
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="36" height="36" alt="C" /></a>
 <a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="36" height="36" alt="HTML" /></a>
 <a href="https://css3.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="36" height="36" alt="CSS" /></a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="36" height="36" alt="JavaScript" /></a>
