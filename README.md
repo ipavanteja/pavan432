@@ -7,7 +7,7 @@ This is the place where I open source stuff and break things 👨‍💻
 - 📫 How to reach me: **pavan@i.camp**
 - ⚡ Fun fact: I love to code while listening to music 🎧
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ipavanteja)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ipavanteja&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img
   src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
