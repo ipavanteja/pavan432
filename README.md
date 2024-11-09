@@ -2,8 +2,7 @@
 <h3 align="center">Passionate Web Developer From India</h3>
 
 This is the place where I open source stuff and break things 👨‍💻 
-- 🧠 I’m currently working on building EdTech products at **[i.CAMP](https://i.camp/)**
-- 👨‍💻 I'm currently learning Full Stack Web Development.
+- 🧠 I’m currently working on Full Stack Web Development at **[i.CAMP](https://i.camp/)**
 - 📫 How to reach me: **pavan@i.camp**
 - ⚡ Fun fact: I love to code while listening to music 🎧
 
